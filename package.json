@@ -1,0 +1,32 @@
+{
+  "name": "react-google-image-picker",
+  "version": "0.0.1",
+  "description": "Google Images Picker",
+  "main": "index.js",
+  "dependencies": {
+    "http-client": "^4.3.1"
+  },
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javierM84/react-google-image-picker.git"
+  },
+  "keywords": [
+    "google",
+    "images",
+    "react",
+    "native"
+  ],
+  "author": "Javier Morant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javierM84/react-google-image-picker/issues"
+  },
+  "homepage": "https://github.com/javierM84/react-google-image-picker#readme"
+}
